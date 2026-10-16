@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cseth-ops.github.io/fda-review-search/sitemap.xml

@@ -1,0 +1,20 @@
+{
+ "built": "2026-10-16T15:45:59",
+ "drugs": 919,
+ "sections": 6346,
+ "statements": 8192,
+ "differed": 1292,
+ "differed_drugs": 259,
+ "margins": 8313,
+ "margin_drugs": 646,
+ "nam": 1278,
+ "nam_drugs": 430,
+ "drift": 244,
+ "drift_drugs": 98,
+ "pmr": 2240,
+ "pmr_drugs": 456,
+ "index_entries": 43727,
+ "index_kb": 20129,
+ "index_shards": 18,
+ "coverage": {}
+}
